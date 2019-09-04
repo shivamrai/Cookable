@@ -1,4 +1,4 @@
-# csc648-sp19-Team205
+# Cookable
 
 ## FILE STRUCTURE
 app:
